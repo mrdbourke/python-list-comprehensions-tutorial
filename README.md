@@ -4,4 +4,6 @@ List comprehensions are a powerful Python tool for manipulating and creating lis
 
 This repository contains the companion code to go along with the Visual Introduction to Python List Comprehensions video on YouTube.
 
-If you find an error or have any advice for a future tutorial, please let me know at (daniel@mrdbourke.com)[mailto:daniel@mrdbourke.com].
+All of the code can be found in the python-list-comprehensions-in-5-minutes.ipynb Jupyter Notebook.
+
+If you find an error or have any advice for a future tutorial, please let me know at daniel@mrdbourke.com.
